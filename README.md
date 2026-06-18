@@ -14,4 +14,8 @@ The program generates a random number between 1 and 100, and the user has to gue
 - Java
 - ⁠VS code
 
+  ## Output
+
+![Program Output](number guessing program output.png)
+
 Created by Prabhneet Kaur
